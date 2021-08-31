@@ -16,7 +16,7 @@ A little more about me...
 ## Skills and technologies that I know <img><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></img>
 
 <div align="left">
- <img  src="https://image.flaticon.com/icons/png/512/226/226777.png" width="50" > &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" > &nbsp; &nbsp; &nbsp;  <img src="https://git-scm.com/images/logo@2x.png" width="50" > &nbsp; &nbsp; &nbsp;<img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="50" >&nbsp; &nbsp; &nbsp;<img src="https://lh3.googleusercontent.com/proxy/xwW57cGNma1pQ_1lyhMNzAj9jRkKtcNN8MdhhlgK4-0w6GwMhp2Xa-THrOD7J8wNnCsneD7C9w1pe6WYZvUbJOhMo4jJ6GEN3xgi" width="50" > &nbsp; &nbsp; &nbsp; <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" >  
+ <img  src="https://image.flaticon.com/icons/png/512/226/226777.png" width="40" > &nbsp; &nbsp; &nbsp; <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" > &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" > &nbsp; &nbsp; &nbsp;<img src="https://lh3.googleusercontent.com/proxy/xwW57cGNma1pQ_1lyhMNzAj9jRkKtcNN8MdhhlgK4-0w6GwMhp2Xa-THrOD7J8wNnCsneD7C9w1pe6WYZvUbJOhMo4jJ6GEN3xgi" width="50" > &nbsp; &nbsp; &nbsp;  <img src="https://git-scm.com/images/logo@2x.png" width="50" > &nbsp; &nbsp; &nbsp;<img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="70" >   
 
 </div>
 
