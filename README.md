@@ -1,22 +1,21 @@
-### <h2> Hola, soy Mónica <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
+<h1> Hola, soy Mónica <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> </h1>
+<img align = 'right' src = "https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width = "230">
 
-
-<div align='center'><img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611f16e474d86a2425001ccf9a0c059f352363f2277&rid=giphy.gif&ct=g" width="700"></div>
-
-## - 🔨 Desarrolladora Backend Jr. 
-```javascript
+<h2> :round_pushpin: Desarrolladora Backend Jr. </h2>
 Un poco de mi: 
-- 🌸 Soy una chica apasionada por la musica y la tecnologia
-- 🎓 Actualmente estoy aprendiendo Java en el BackEnd Bootcamp de Ada ITW
-- 🌱 tambien estoy aprendiendo Python de manera didactica
-- 📊 Actualmente estoy trabajando en Api Rest deployandas en heroku
-- 👯 Me gustaria colaborar con cualquier proyecto que pueda aportar y dejarme conocimiento
-- 💼 Actualmente estoy en búsqueda laboral activa
+ 
+- 🌸 Soy una chica apasionada por la musica y la tecnologia.
+- 🎓 Actualmente estoy aprendiendo Java en el BackEnd Bootcamp de Ada ITW.
+- 🌱 tambien estoy aprendiendo Python de manera didactica.
+- 📊 Actualmente estoy trabajando en Api Rest deployandas en heroku.
+- 👯 Me gustaria colaborar con cualquier proyecto que pueda aportar y dejarme conocimiento.
+- 💼 Actualmente estoy en búsqueda laboral activa.
 
-```
+<br/>
 
-## - Habilidades y Tecnologias que conozco: <img><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></img>
+<h3>- Habilidades y Tecnologias que conozco <img><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></img></h3>
 
+ 
 <div align="left">
  <img  src="https://image.flaticon.com/icons/png/512/226/226777.png" width="40" > &nbsp; &nbsp; &nbsp; <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" > &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" > &nbsp; &nbsp; &nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" > &nbsp; &nbsp; &nbsp;  <img src="https://git-scm.com/images/logo@2x.png" width="40" > &nbsp; &nbsp; &nbsp;<img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="50" >  &nbsp; &nbsp; &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30" > <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="30"/> </a>
 
