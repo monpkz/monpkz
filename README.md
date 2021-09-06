@@ -4,12 +4,12 @@
 <h2> :round_pushpin: Desarrolladora Backend Jr. </h2>
 <H6> Un poco de mi: 
  
-- 🌸 Soy una chica apasionada por la musica y la tecnologia.
+- 🌸 Una chica apasionada por la musica y la tecnologia.
 - 🎓 Actualmente estoy aprendiendo Java en el BackEnd Bootcamp de Ada ITW.
-- 🌱 tambien estoy aprendiendo Python de manera didactica.
-- 📊 Actualmente estoy trabajando en Api Rest deployandas en heroku.
-- 👯 Me gustaria colaborar con cualquier proyecto que pueda aportar y dejarme conocimiento.
-- 💼 Actualmente estoy en búsqueda laboral activa.
+- 🌱 Tambien estoy aprendiendo Python de manera didactica.
+- 📊 Actualmente estoy trabajando en Api Rest.
+- 👯 Me gustaria colaborar con cualquier proyecto en el que pueda aportar y dejarme conocimiento.
+- 💼 Estoy en búsqueda laboral activa.
  </H6>
 <br/>
 
