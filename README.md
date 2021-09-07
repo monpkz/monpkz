@@ -7,15 +7,14 @@
 - 🌸 Una chica apasionada por la musica y la tecnologia.
 - 🎓 Actualmente estoy aprendiendo Java en el BackEnd Bootcamp de Ada ITW.
 - 🌱 Tambien estoy aprendiendo Python de manera didactica.
-- 📊 Actualmente estoy trabajando en Api Rest.
+- 📊 Actualmente estoy trabajando en Java, Api Rest.
 - 👯 Me gustaria colaborar con cualquier proyecto en el que pueda aportar y dejarme conocimiento.
 - 💼 Estoy en búsqueda laboral activa.
  </H6>
 <br/>
 
-<h3>- Habilidades y Tecnologias que conozco <img><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></img></h3>
+<h3>- Skills <img><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></img></h3>
 
- 
 <div align="left">
  <img  src="https://image.flaticon.com/icons/png/512/226/226777.png" width="30" > &nbsp; &nbsp; &nbsp; <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30" > &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" > &nbsp; &nbsp; &nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" > &nbsp; &nbsp; &nbsp;  <img src="https://git-scm.com/images/logo@2x.png" width="40" > &nbsp; &nbsp; &nbsp;<img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="40" >  &nbsp; &nbsp; &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30" > <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="30"/> </a>
 
