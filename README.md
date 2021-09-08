@@ -18,10 +18,14 @@
 
 <br/>
 <br/>
-
-
-![Monpkz Language stats](https://github-readme-stats.vercel.app/api?username=monpkz&show_icons=true&theme=dark&text_color=605c61&hide_border=true&cache_seconds=500&locale=en) &nbsp;&nbsp; ![Monpkz github stats](https://github-readme-stats.vercel.app/api/top-langs?username=monpkz&show_icons=true&theme=dark&text_color=605c61&hide_border=true&cache_seconds=500&locale=en&layout=compact)
 <br/>
+<br/>
+
+ <p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=monpkz&show_icons=true&theme=dark&text_color=605c61&hide_border=true&cache_seconds=500&locale=en" alt="monpkz" width=400> &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=monpkz&show_icons=true&theme=dark&text_color=605c61&hide_border=true&cache_seconds=500&locale=en&layout=compact" alt="monpkz" width=300>
+</p>
+ 
  <br/>
  <samp>📍 Connect with me: </samp>
 <div align="left">
@@ -37,6 +41,8 @@
  
  <!--
 **monpkz/monpkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monpkz&show_icons=true&theme=dark&text_color=605c61&hide_border=true&cache_seconds=500&locale=en&layout=compact" alt="monpkz" width = 400 >
 
 Here are some ideas to get you started:
 
