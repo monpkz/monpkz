@@ -28,8 +28,9 @@
  
  <br/>
  <samp>📍 Connect with me: </samp>
+ 
 <div align="left">
- <a href="https://linkedin.com/in/monicaperez--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/monicaperez--" width="30"/></a> &nbsp; 
+ &nbsp;&nbsp; <a href="https://linkedin.com/in/monicaperez--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/monicaperez--" width="30"/></a> &nbsp; 
  <a href="https://github.com/monpkz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com/monpkz" width="30"/></a> &nbsp;
  <a href="https://dev.to/monpkz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="monpkz" width="30"/></a> &nbsp;
  <a href="https://www.hackerrank.com/monpkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="monpkz" width="30"/></a> &nbsp;
