@@ -14,7 +14,7 @@
 
   <samp> Languages and Tools <img><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></img> </samp>
 <div align="left">
- <img  src="https://image.flaticon.com/icons/png/512/226/226777.png" width="30"> &nbsp; <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30"> &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"> &nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"> &nbsp;  <img src="https://git-scm.com/images/logo@2x.png" width="40"> &nbsp; <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="40" > &nbsp; 
+ <img  src="https://image.flaticon.com/icons/png/512/226/226777.png" width="30"> &nbsp; <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30"> &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"> &nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"> &nbsp;  <img src="https://git-scm.com/images/logo@2x.png" width="40"> &nbsp; <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="40" > &nbsp;  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="30" > &nbsp;  
 
 <br/>
 <br/>
